@@ -1,0 +1,1 @@
+window.alert("Hey Java is working!")
